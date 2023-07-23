@@ -26,7 +26,7 @@ Experiment
 We release the neural processes header (np_head.py) for semi-supervised semantic segmentation, and how it is used is shown in the two segmentation frameworks, namely U2PL and AugSeg.
 
 
-Please download pretrained ResNet-50 and datasets at first. They can be found in the original U2PL and AugSeg repos. Here we provide download links for convenience. 
+Please download pretrained resnet50.pth and datasets at first. The datasets can be found in the original [U2PL](https://github.com/Haochen-Wang409/U2PL#readme) and [AugSeg](https://github.com/ZhenZHAO/AugSeg) repos. Here we provide download links of resnet50.pth for convenience. 
 
 ResNet-50:
 
@@ -37,24 +37,11 @@ ResNet-50:
    <th valign="bottom">Baidu Disk</th>
    <!-- TABLE BODY -->
    <tr>
-   <td align="center"><a href="https://drive.google.com/file/d/1EjcTqoJMbj6EfvY-yt1eaeMdHzSYBCy-/view?usp=sharing">download</a></td>
+   <td align="center"><a href="https://drive.google.com/file/d/1O8eV7stVXcjbGyhemEI6Bk4ERiQr8iUN/view?usp=sharing">download</a></td>
    <td align="center"><a href="https://pan.baidu.com/s/1A1m5927elxdmZwkaB9GGNQ">download</a>  (code: q3dk)  </td>
    </tr>
    </tbody></table> 
 
-Datasets:
-
-<table><tbody>
-   <!-- START TABLE -->
-   <!-- TABLE HEADER -->
-   <th valign="bottom">Google Drive</th>
-   <th valign="bottom">Baidu Disk</th>
-   <!-- TABLE BODY -->
-   <tr>
-   <td align="center"><a href="https://drive.google.com/file/d/1EjcTqoJMbj6EfvY-yt1eaeMdHzSYBCy-/view?usp=sharing">download</a></td>
-   <td align="center"><a href="https://pan.baidu.com/s/1A1m5927elxdmZwkaB9GGNQ">download</a>  (code: q3dk)  </td>
-   </tr>
-   </tbody></table> 
 
 Please put the resnet50.pth in the "pretrained" directory and datasets in the "data" directory, in both U2PL and AugSeg. 
 
