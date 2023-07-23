@@ -79,5 +79,5 @@ Will be updated soon.
 Acknowledgement
 -----
 
-The released codes contain codes from [U2PL](https://github.com/Haochen-Wang409/U2PL#readme) and [AugSeg](https://github.com/ZhenZHAO/AugSeg). We thank for their contributions. 
+The released codes contain the contents from [U2PL](https://github.com/Haochen-Wang409/U2PL#readme) and [AugSeg](https://github.com/ZhenZHAO/AugSeg). We thank for their contributions. 
  
