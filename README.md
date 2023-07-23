@@ -45,7 +45,7 @@ ResNet-50:
 
 Please put the resnet50.pth in the "pretrained" directory and datasets in the "data" directory, in both U2PL and AugSeg. 
 
-For U2PL:
+**For U2PL:**
 
 
 ```
@@ -60,7 +60,7 @@ After training, the model should be evaluated by
 sh eval.sh
 ```
 
-For AugSeg:
+**For AugSeg:**
 
 Please configure your yaml file in a running script "./scripts/run_abls_citys.sh", and then run:
 
