@@ -38,7 +38,7 @@ ResNet-50:
    <!-- TABLE BODY -->
    <tr>
    <td align="center"><a href="https://drive.google.com/file/d/1O8eV7stVXcjbGyhemEI6Bk4ERiQr8iUN/view?usp=sharing">download</a></td>
-   <td align="center"><a href="https://pan.baidu.com/s/1A1m5927elxdmZwkaB9GGNQ">download</a>  (code: q3dk)  </td>
+   <td align="center"><a href="https://pan.baidu.com/s/1YNcVw-VOd2zlOZ-fDcfiDw">download</a>  (code: mhbx)  </td>
    </tr>
    </tbody></table> 
 
@@ -74,4 +74,10 @@ Citation
 -----
 
 Will be updated soon.
+
+
+Acknowledgement
+-----
+
+The released codes contain codes from [U2PL](https://github.com/Haochen-Wang409/U2PL#readme) and [AugSeg](https://github.com/ZhenZHAO/AugSeg). We thank for their contributions. 
  
