@@ -73,7 +73,14 @@ sh ./scripts/run_abls_citys.sh
 Citation
 -----
 
-Will be updated soon.
+@inproceedings{wang2023np,
+  title={NP-SemiSeg: when neural processes meet semi-supervised semantic segmentation},
+  author={Wang, Jianfeng and Massiceti, Daniela and Hu, Xiaolin and Pavlovic, Vladimir and Lukasiewicz, Thomas},
+  booktitle={International Conference on Machine Learning},
+  pages={36138--36156},
+  year={2023},
+  organization={PMLR}
+}
 
 
 Acknowledgement
